@@ -1,5 +1,4 @@
 requests
 colorama
-pycyptodome
 ua_generator
 web3==6.0
